@@ -1,0 +1,5 @@
+{
+  "name": "School Flag Insights Pro",
+  "description": "An advanced school behavior analytics tool that uses Gemini AI to identify trends in student flags, including teacher patterns, year group distributions, and temporal trends from spreadsheet data.",
+  "requestFramePermissions": []
+}
